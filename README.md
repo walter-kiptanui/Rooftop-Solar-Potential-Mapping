@@ -1,4 +1,4 @@
-In this project, an analysis of the solar rooftop potential data obtained from a certain area of interest in Nairobi was done. The results obtained from the analysis would be very helpful to a solar company.
+In this project, an analysis of the rooftop solar potential data obtained from a certain area of interest in Nairobi was done. The results obtained from the analysis would be very helpful to a solar company.
 For solar installation companies it is proper to do a feasible study before venturing into solar installation project. 
 
 The objectives of the project were:
